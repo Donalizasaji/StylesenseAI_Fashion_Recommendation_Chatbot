@@ -61,13 +61,9 @@ The system combines semantic search with conversational AI to deliver context-aw
 
 ---
 
-## ⚙️ Installation
 
-```bash
-git clone https://github.com/your-username/stylesense-ai.git
-cd stylesense-ai
 
-pip install -r requirements.txt
+
 ```
 
 ---
