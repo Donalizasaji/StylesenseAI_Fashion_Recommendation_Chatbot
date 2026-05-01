@@ -47,9 +47,9 @@ https://github.com/your-username/stylesense-ai/assets/your-video-link
 ## 📂 Project Structure
 
 ```
-stylesense-ai/
+.
 │
-├── app.py
+├── fashion_recommendation_chatbot.ipynb
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
@@ -59,7 +59,6 @@ stylesense-ai/
 │
 ├── assets/
 │   └── background.jpg
-```
 
 ---
 
@@ -74,13 +73,6 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Run the Application
-
-```bash
-python app.py
-```
-
-The app will launch in your browser using Gradio.
 
 ---
 
