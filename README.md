@@ -31,33 +31,30 @@ The system combines semantic search with conversational AI to deliver context-aw
 6. ✨ Generates human-like fashion recommendations
 
 ---
-
 ## 🛠️ Tech Stack
 
-* **Python**
-* **Transformers (HuggingFace)**
-* **Sentence Transformers**
-* **Scikit-learn (Cosine Similarity)**
-* **PyPDF**
-* **Gradio (UI)**
+- **Python**
+- **Transformers (HuggingFace)**
+- **Sentence Transformers**
+- **Scikit-learn (Cosine Similarity)**
+- **PyPDF**
+- **Gradio (UI)**
 
 ---
 
 ## 📂 Project Structure
 
+```text
 .
-│
 ├── fashion_recommendation_chatbot.ipynb
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-│
 ├── data/
 │   └── fashion.pdf
-│
-├── assets/
-│   └── background.jpg
-
+└── assets/
+    └── background.jpg
+```
 ---
 
 🎯 Example Use Cases
