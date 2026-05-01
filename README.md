@@ -45,7 +45,7 @@ The system combines semantic search with conversational AI to deliver context-aw
 
 ## 📂 Project Structure
 
-
+.
 │
 ├── fashion_recommendation_chatbot.ipynb
 ├── requirements.txt
