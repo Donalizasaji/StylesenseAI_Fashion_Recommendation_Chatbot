@@ -45,8 +45,7 @@ The system combines semantic search with conversational AI to deliver context-aw
 
 ## 📂 Project Structure
 
-```
-.
+
 │
 ├── fashion_recommendation_chatbot.ipynb
 ├── requirements.txt
@@ -61,14 +60,7 @@ The system combines semantic search with conversational AI to deliver context-aw
 
 ---
 
-
-
----
-
-
----
-
-## 🎯 Example Use Cases
+🎯 Example Use Cases
 
 * “Suggest a wedding outfit for summer”
 * “What should I wear for an office meeting?”
@@ -76,7 +68,7 @@ The system combines semantic search with conversational AI to deliver context-aw
 
 ---
 
-## 🔥 Key Highlights
+🔥 Key Highlights
 
 * Implements **Retrieval-Augmented Generation (RAG)**
 * Uses **semantic similarity search for context retrieval**
@@ -85,7 +77,7 @@ The system combines semantic search with conversational AI to deliver context-aw
 
 ---
 
-## 🚀 Future Improvements
+🚀 Future Improvements
 
 * 🎤 Voice-based interaction
 * 🖼️ Outfit image generation
@@ -94,7 +86,7 @@ The system combines semantic search with conversational AI to deliver context-aw
 
 ---
 
-## 👩‍💻 Author
+👩‍💻 Author
 
 **Dona Liza Saji**
 Master’s in Artificial Intelligence & Machine Learning
