@@ -8,8 +8,7 @@ The system combines semantic search with conversational AI to deliver context-aw
 
 ## 🎥 Demo Video
 
-youtube.com/watch?si=JgSKUrZbd7WaZlC7&v=uyah8vyBtHU&feature=youtu.be
----
+[![Watch the demo](https://img.youtube.com/vi/uyah8vyBtHU/0.jpg)](https://www.youtube.com/watch?v=uyah8vyBtHU)
 
 ## 💡 Features
 
