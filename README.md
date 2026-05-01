@@ -8,7 +8,7 @@ The system combines semantic search with conversational AI to deliver context-aw
 
 ## 🎥 Demo Video
 
-https://github.com/your-username/stylesense-ai/assets/your-video-link
+youtube.com/watch?si=JgSKUrZbd7WaZlC7&v=uyah8vyBtHU&feature=youtu.be
 ---
 
 ## 💡 Features
