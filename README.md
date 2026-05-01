@@ -6,6 +6,9 @@
 
 The system combines semantic search with conversational AI to deliver context-aware fashion advice based on knowledge extracted from fashion documents.
 
+## 🎥 Demo Video
+
+https://github.com/your-username/stylesense-ai/assets/your-video-link
 ---
 
 ## 💡 Features
