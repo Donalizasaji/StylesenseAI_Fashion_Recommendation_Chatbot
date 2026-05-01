@@ -63,9 +63,6 @@ The system combines semantic search with conversational AI to deliver context-aw
 
 
 
-
-```
-
 ---
 
 
